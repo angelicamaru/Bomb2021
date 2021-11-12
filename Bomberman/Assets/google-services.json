@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "545592465518",
+    "firebase_url": "https://bomberman-2021-2-default-rtdb.firebaseio.com",
+    "project_id": "bomberman-2021-2",
+    "storage_bucket": "bomberman-2021-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545592465518:android:637df183718228e12c6e7f",
+        "android_client_info": {
+          "package_name": "com.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545592465518-vkv8amfa8mhk2mol6ec02fb9vagqm59e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb1e4r5fOZJjFOrtcXA2aFKFokk-oyKMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "545592465518-vkv8amfa8mhk2mol6ec02fb9vagqm59e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
